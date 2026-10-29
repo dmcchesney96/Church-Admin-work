@@ -1,0 +1,4 @@
+interface:
+  display_name: "Southbrook Website Demo"
+  short_description: "Build audit-based pages with mockups and checkpoints"
+  default_prompt: "Use $southbrook-website-demo-workflow to resume the Southbrook audit-to-demo project one page at a time."

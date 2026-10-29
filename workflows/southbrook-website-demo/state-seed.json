@@ -1,0 +1,357 @@
+{
+  "schema_version": 1,
+  "project_id": "appgprj_6ae10560a9dc8191be01ad534c0d49dd",
+  "run_status": "prepared",
+  "demo_url": "https://southbrook-website-concept.dspm96.chatgpt.site",
+  "review_path": "/review/",
+  "review_gallery_status": "not_created",
+  "sitemap_reconciled": false,
+  "baseline_version_number": 3,
+  "baseline_commit": "587c65c08ce4f43c8ba416c08f7e8798afed3597",
+  "next_action": "Reconcile native Site/source state; read full audit; bootstrap review gallery and backfill baseline visuals; then select times-locations.",
+  "current_page": null,
+  "pages": [
+    {
+      "id": "home",
+      "demo_path": "/",
+      "source_url": "https://www.southbrookchurch.com/",
+      "status": "baseline_published",
+      "review_artifacts_status": "backfill_required",
+      "baseline_version_number": 3
+    },
+    {
+      "id": "new",
+      "demo_path": "/new/",
+      "source_url": "https://www.southbrookchurch.com/new",
+      "status": "baseline_published",
+      "review_artifacts_status": "backfill_required",
+      "baseline_version_number": 3
+    },
+    {
+      "id": "discipleship",
+      "demo_path": "/discipleship/",
+      "source_url": "https://www.southbrookchurch.com/discipleship",
+      "status": "baseline_published",
+      "review_artifacts_status": "backfill_required",
+      "baseline_version_number": 3
+    },
+    {
+      "id": "groups",
+      "demo_path": "/groups/",
+      "source_url": "https://www.southbrookchurch.com/groups",
+      "status": "baseline_published",
+      "review_artifacts_status": "backfill_required",
+      "baseline_version_number": 3
+    },
+    {
+      "id": "kids",
+      "demo_path": "/kids/",
+      "source_url": "https://www.southbrookchurch.com/kids",
+      "status": "baseline_published",
+      "review_artifacts_status": "backfill_required",
+      "baseline_version_number": 3
+    },
+    {
+      "id": "students",
+      "demo_path": "/students/",
+      "source_url": "https://www.southbrookchurch.com/students",
+      "status": "baseline_published",
+      "review_artifacts_status": "backfill_required",
+      "baseline_version_number": 3
+    },
+    {
+      "id": "serve",
+      "demo_path": "/serve/",
+      "source_url": "https://www.southbrookchurch.com/serve",
+      "status": "baseline_published",
+      "review_artifacts_status": "backfill_required",
+      "baseline_version_number": 3
+    },
+    {
+      "id": "care",
+      "demo_path": "/care/",
+      "source_url": "https://www.southbrookchurch.com/care",
+      "status": "baseline_published",
+      "review_artifacts_status": "backfill_required",
+      "baseline_version_number": 3
+    },
+    {
+      "id": "times-locations",
+      "source_url": "https://www.southbrookchurch.com/times-locations",
+      "demo_path": "/times-locations/",
+      "status": "pending"
+    },
+    {
+      "id": "milestones",
+      "source_url": "https://www.southbrookchurch.com/milestones",
+      "demo_path": "/milestones/",
+      "status": "pending"
+    },
+    {
+      "id": "fm-resources",
+      "source_url": "https://www.southbrookchurch.com/fm-resources",
+      "demo_path": "/fm-resources/",
+      "status": "pending"
+    },
+    {
+      "id": "milestone-7",
+      "source_url": "https://www.southbrookchurch.com/milestone-7",
+      "demo_path": "/milestone-7/",
+      "status": "pending"
+    },
+    {
+      "id": "equipping-groups",
+      "source_url": "https://www.southbrookchurch.com/equipping-groups",
+      "demo_path": "/equipping-groups/",
+      "status": "pending"
+    },
+    {
+      "id": "trainingcenter",
+      "source_url": "https://www.southbrookchurch.com/trainingcenter",
+      "demo_path": "/trainingcenter/",
+      "status": "pending"
+    },
+    {
+      "id": "mixed-groups",
+      "source_url": "https://www.southbrookchurch.com/mixed-groups",
+      "demo_path": "/mixed-groups/",
+      "status": "pending"
+    },
+    {
+      "id": "womens-groups",
+      "source_url": "https://www.southbrookchurch.com/womens-groups",
+      "demo_path": "/womens-groups/",
+      "status": "pending"
+    },
+    {
+      "id": "mens-groups",
+      "source_url": "https://www.southbrookchurch.com/mens-groups",
+      "demo_path": "/mens-groups/",
+      "status": "pending"
+    },
+    {
+      "id": "care-groups",
+      "source_url": "https://www.southbrookchurch.com/care-groups",
+      "demo_path": "/care-groups/",
+      "status": "pending"
+    },
+    {
+      "id": "local",
+      "source_url": "https://www.southbrookchurch.com/local",
+      "demo_path": "/local/",
+      "status": "pending"
+    },
+    {
+      "id": "missions",
+      "source_url": "https://www.southbrookchurch.com/missions",
+      "demo_path": "/missions/",
+      "status": "pending"
+    },
+    {
+      "id": "membership",
+      "source_url": "https://www.southbrookchurch.com/membership",
+      "demo_path": "/membership/",
+      "status": "pending"
+    },
+    {
+      "id": "baptism",
+      "source_url": "https://www.southbrookchurch.com/baptism",
+      "demo_path": "/baptism/",
+      "status": "pending"
+    },
+    {
+      "id": "contact",
+      "source_url": "https://www.southbrookchurch.com/contact",
+      "demo_path": "/contact/",
+      "status": "pending"
+    },
+    {
+      "id": "our-team",
+      "source_url": "https://www.southbrookchurch.com/our-team",
+      "demo_path": "/our-team/",
+      "status": "pending"
+    },
+    {
+      "id": "beliefs",
+      "source_url": "https://www.southbrookchurch.com/beliefs",
+      "demo_path": "/beliefs/",
+      "status": "pending"
+    },
+    {
+      "id": "values",
+      "source_url": "https://www.southbrookchurch.com/values",
+      "demo_path": "/values/",
+      "status": "pending"
+    },
+    {
+      "id": "culture",
+      "source_url": "https://www.southbrookchurch.com/culture",
+      "demo_path": "/culture/",
+      "status": "pending"
+    },
+    {
+      "id": "give",
+      "source_url": "https://www.southbrookchurch.com/give",
+      "demo_path": "/give/",
+      "status": "pending"
+    },
+    {
+      "id": "events",
+      "source_url": "https://www.southbrookchurch.com/events",
+      "demo_path": "/events/",
+      "status": "pending"
+    },
+    {
+      "id": "messages",
+      "source_url": "https://www.southbrookchurch.com/messages",
+      "demo_path": "/messages/",
+      "status": "pending"
+    },
+    {
+      "id": "updates",
+      "source_url": "https://www.southbrookchurch.com/updates",
+      "demo_path": "/updates/",
+      "status": "pending"
+    },
+    {
+      "id": "reach",
+      "source_url": "https://www.southbrookchurch.com/reach",
+      "demo_path": "/reach/",
+      "status": "pending"
+    },
+    {
+      "id": "connect",
+      "source_url": "https://www.southbrookchurch.com/connect",
+      "demo_path": "/connect/",
+      "status": "pending"
+    },
+    {
+      "id": "southlandsc",
+      "source_url": "https://www.southbrookchurch.com/southlandsc",
+      "demo_path": "/southlandsc/",
+      "status": "pending"
+    }
+  ],
+  "remaining_sitemap_urls": [
+    "https://www.southbrookchurch.com/updates",
+    "https://www.southbrookchurch.com/message-notes",
+    "https://www.southbrookchurch.com/mens-groups",
+    "https://www.southbrookchurch.com/mixed-groups",
+    "https://www.southbrookchurch.com/our-team",
+    "https://www.southbrookchurch.com/connect-events",
+    "https://www.southbrookchurch.com/christmas-choir",
+    "https://www.southbrookchurch.com/womens-groups",
+    "https://www.southbrookchurch.com/local",
+    "https://www.southbrookchurch.com/missions",
+    "https://www.southbrookchurch.com/trainingcenter",
+    "https://www.southbrookchurch.com/times-locations",
+    "https://www.southbrookchurch.com/deepdive",
+    "https://www.southbrookchurch.com/staff",
+    "https://www.southbrookchurch.com/equipping-groups",
+    "https://www.southbrookchurch.com/milestones",
+    "https://www.southbrookchurch.com/milestone-7",
+    "https://www.southbrookchurch.com/give",
+    "https://www.southbrookchurch.com/reach",
+    "https://www.southbrookchurch.com/easter",
+    "https://www.southbrookchurch.com/students",
+    "https://www.southbrookchurch.com/groups",
+    "https://www.southbrookchurch.com/prayer-fasting",
+    "https://www.southbrookchurch.com/download-the-southbook-church-app",
+    "https://www.southbrookchurch.com/employment",
+    "https://www.southbrookchurch.com/discipleship-groups",
+    "https://www.southbrookchurch.com/care-groups",
+    "https://www.southbrookchurch.com/caleb-brittany",
+    "https://www.southbrookchurch.com/cfk",
+    "https://www.southbrookchurch.com/christmas",
+    "https://www.southbrookchurch.com/heart-for-monroe",
+    "https://www.southbrookchurch.com/serve",
+    "https://www.southbrookchurch.com/serve2",
+    "https://www.southbrookchurch.com/app-privacy-policy",
+    "https://www.southbrookchurch.com/worship-serving",
+    "https://www.southbrookchurch.com/welcome-team-serving",
+    "https://www.southbrookchurch.com/kid-ministry-serving",
+    "https://www.southbrookchurch.com/care-team-serving",
+    "https://www.southbrookchurch.com/events-team-serving",
+    "https://www.southbrookchurch.com/production-serving",
+    "https://www.southbrookchurch.com/safety-team-serving",
+    "https://www.southbrookchurch.com/other-serving",
+    "https://www.southbrookchurch.com/groups-serving",
+    "https://www.southbrookchurch.com/kids",
+    "https://www.southbrookchurch.com/seniorsendoff",
+    "https://www.southbrookchurch.com/global",
+    "https://www.southbrookchurch.com/zac-rachel",
+    "https://www.southbrookchurch.com/discipleship",
+    "https://www.southbrookchurch.com/6k",
+    "https://www.southbrookchurch.com/regional",
+    "https://www.southbrookchurch.com/the-f-family",
+    "https://www.southbrookchurch.com/the-k-family",
+    "https://www.southbrookchurch.com/leadership",
+    "https://www.southbrookchurch.com/white-oak-nursing-home",
+    "https://www.southbrookchurch.com/lifeline-children-services",
+    "https://www.southbrookchurch.com/mission-trips",
+    "https://www.southbrookchurch.com/care",
+    "https://www.southbrookchurch.com/values",
+    "https://www.southbrookchurch.com/beliefs",
+    "https://www.southbrookchurch.com/culture",
+    "https://www.southbrookchurch.com/josh-bryan",
+    "https://www.southbrookchurch.com/joe-donna",
+    "https://www.southbrookchurch.com/dave-mari",
+    "https://www.southbrookchurch.com/operation-chirstmas-child",
+    "https://www.southbrookchurch.com/alan-amanda",
+    "https://www.southbrookchurch.com/bob-barb",
+    "https://www.southbrookchurch.com/jerome-diedre",
+    "https://www.southbrookchurch.com/joe-mary",
+    "https://www.southbrookchurch.com/jim-lynne",
+    "https://www.southbrookchurch.com/kate-doiron",
+    "https://www.southbrookchurch.com/fields-of-hope",
+    "https://www.southbrookchurch.com/help-pregnancy-center",
+    "https://www.southbrookchurch.com/waxhaw-creek-apartments",
+    "https://www.southbrookchurch.com/community-shelter-of-union-county",
+    "https://www.southbrookchurch.com/jeff-jenn",
+    "https://www.southbrookchurch.com/josh-karen",
+    "https://www.southbrookchurch.com/kris-cindy",
+    "https://www.southbrookchurch.com/lediesky-polly",
+    "https://www.southbrookchurch.com/matteo-crystal",
+    "https://www.southbrookchurch.com/helene",
+    "https://www.southbrookchurch.com/new",
+    "https://www.southbrookchurch.com/volunteer",
+    "https://www.southbrookchurch.com/summeroflove",
+    "https://www.southbrookchurch.com/membership",
+    "https://www.southbrookchurch.com/requests",
+    "https://www.southbrookchurch.com/southlandsc",
+    "https://www.southbrookchurch.com/rnm",
+    "https://www.southbrookchurch.com/contact",
+    "https://www.southbrookchurch.com/email",
+    "https://www.southbrookchurch.com/about",
+    "https://www.southbrookchurch.com/worship",
+    "https://www.southbrookchurch.com/messages",
+    "https://www.southbrookchurch.com/events",
+    "https://www.southbrookchurch.com/church-plant",
+    "https://www.southbrookchurch.com/group-leader-resources",
+    "https://www.southbrookchurch.com/multiply",
+    "https://www.southbrookchurch.com/fm-resources",
+    "https://www.southbrookchurch.com/baptism",
+    "https://www.southbrookchurch.com/marriage-sexuality",
+    "https://www.southbrookchurch.com/test",
+    "https://www.southbrookchurch.com/connect",
+    "https://www.southbrookchurch.com/sermon-resources",
+    "https://www.southbrookchurch.com/plan-a-visit",
+    "https://www.southbrookchurch.com/southbrooks-story",
+    "https://www.southbrookchurch.com/walk-it-out",
+    "https://www.southbrookchurch.com/styles",
+    "https://www.southbrookchurch.com/nativity",
+    "https://www.southbrookchurch.com/missionary-spotlight",
+    "https://www.southbrookchurch.com/fm-volunteers",
+    "https://www.southbrookchurch.com/equip",
+    "https://www.southbrookchurch.com/ihelp",
+    "https://www.southbrookchurch.com/lighthouse",
+    "https://www.southbrookchurch.com/elder-faq",
+    "https://www.southbrookchurch.com/health-care-plan",
+    "https://www.southbrookchurch.com/child-protection-policy",
+    "https://www.southbrookchurch.com/sitemap",
+    "https://www.southbrookchurch.com/",
+    "https://www.southbrookchurch.com/community",
+    "https://www.southbrookchurch.com/blog"
+  ],
+  "checkpoint_log": []
+}
